@@ -10,3 +10,8 @@ IF "Total" MORE THAN "5 Baju Kebaya"
     DISPLAY "Promo Gratis 1 Kebaya"
     STORE "Harga Akhir" WITH "Total" Times "4"
     DISPLAY "Harga Akhir"
+ELSE "Total" LESS THAN "5 Baju Kebaya"
+    DISPLAY "Tidak Ada Diskon"
+    STORE "Harga Akhir" WITH "Total"
+    DISPLAY "Harga Akhir"
+    
