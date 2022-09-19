@@ -6,7 +6,7 @@ Kalkulator ini digunakan untuk menghitung total promo yang didapatkan oleh seiap
 - Flowchart.drawio
 - README.md
 - Pseudocode.txt
-- Algoritma.txt
+
 
 Dibuat oleh :
 - ' Willda Dian Alfiela - BE2619668 '
