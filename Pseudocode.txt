@@ -8,5 +8,5 @@ DISPLAY "TOTAL"
 
 IF "Total" MORE THAN "5 Baju Kebaya"
     DISPLAY "Promo Gratis 1 Kebaya"
-    STORE "TOTAL" WITH "Total" Times "4"
-    DISPLAY "TOTAL"
+    STORE "Harga Akhir" WITH "Total" Times "4"
+    DISPLAY "Harga Akhir"
